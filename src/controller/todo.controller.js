@@ -12,3 +12,10 @@ const createtodo =(req,res)=>{
      })
 }
 
+const getTodo=(res,rej)=>{}
+
+
+const updateTodo=(res,rej)=>{}
+
+
+const deleteTodo=(res,rej)=>{}
